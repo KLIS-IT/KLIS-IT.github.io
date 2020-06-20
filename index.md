@@ -12,3 +12,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Er sagt:
 > Das wichtige kommt immer zum Schluss...
+
+<img src="http://web.archive.org/web/20170716094505im_/http://www.klis.de/fileadmin/sunflower_62/template/images/img_header.jpg"/>
+
