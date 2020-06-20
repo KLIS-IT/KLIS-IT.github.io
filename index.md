@@ -9,3 +9,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Punkt c
 * Punkt d
 * Punkt e
+
+Er sagt:
+> Das wichtige kommt immer zum Schluss...
